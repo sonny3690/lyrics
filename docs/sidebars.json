@@ -1,0 +1,61 @@
+{
+	"/": {
+		"id": "",
+		"path": "/",
+		"title": "",
+		"type": "folder",
+		"children": [
+			"Contributing.md",
+			"Credits.md",
+			"FAQ.md",
+			"Format.md",
+			"README.md",
+			"adr"
+		]
+	},
+	"Contributing.md": {
+		"id": "Contributing",
+		"path": "Contributing.md",
+		"title": "Contributing",
+		"type": "document"
+	},
+	"Credits.md": {
+		"id": "Credits",
+		"path": "Credits.md",
+		"title": "Credits",
+		"type": "document"
+	},
+	"FAQ.md": {
+		"id": "FAQ",
+		"path": "FAQ.md",
+		"title": "FAQ",
+		"type": "document"
+	},
+	"Format.md": {
+		"id": "Format",
+		"path": "Format.md",
+		"title": "Format",
+		"type": "document"
+	},
+	"README.md": {
+		"id": "README",
+		"path": "README.md",
+		"title": "README",
+		"type": "document"
+	},
+	"adr": {
+		"id": "folder-adr",
+		"path": "adr",
+		"children": [
+			"adr/0000-use-markdown-architectural-decision-records.md"
+		],
+		"title": "adr",
+		"type": "folder"
+	},
+	"adr/0000-use-markdown-architectural-decision-records.md": {
+		"id": "0000-use-markdown-architectural-decision-records",
+		"path": "adr/0000-use-markdown-architectural-decision-records.md",
+		"title": " Use Markdown Architectural Decision Records",
+		"type": "document"
+	}
+}
