@@ -1,6 +1,6 @@
 ---
 lastAuthor: sonny3690
-lastEdited: 1611731322863
+lastEdited: 1611731395460
 ---
 # See you again works really :)efff
 
@@ -10,21 +10,6 @@ lastEdited: 1611731322863
 * [Contributing](https://github.com/Lyrics/lyrics/tree/master/docs/Contributing.md)
 
 Special thanks go to artists who have kindly shared their texts or helped this project in any other way.
-
-\
-\
-Works fine :)
-
-\
-Did this save???
-
-\
-We’ll see haha
-
-Make the change here!!
-
-\
-* hello world
 
 \
 \
