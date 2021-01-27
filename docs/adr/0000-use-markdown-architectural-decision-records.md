@@ -1,3 +1,7 @@
+---
+lastAuthor: sonny3690
+lastEdited: 1611729451800
+---
 # Use Markdown Architectural Decision Records
 
 ## Context and Problem Statement
@@ -24,3 +28,5 @@ Chosen option: "MADR 2.1.0", because
 * The MADR structure is comprehensible and facilitates usage & maintenance.
 * The MADR project is vivid.
 * Version 2.1.0 is the latest one available when starting to document ADRs.
+
+\
